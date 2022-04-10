@@ -23,7 +23,7 @@ ch08/aclImdb/
 ch08/aclImdb_v1.tar.gz
 ch08/movie_data.csv
 
-# Other 
+# Other
 *checkpoint
 *tfevents*
 *.data-00000-of-00001
@@ -31,7 +31,7 @@ ch08/movie_data.csv
 *.meta
 *.local
 train-images-idx3-ubyte
-train-labels-idx1-ubyte 
+train-labels-idx1-ubyte
 t10k-labels-idx1-ubyte
 t10k-images-idx3-ubyte
 code/ch14/checkpoint
